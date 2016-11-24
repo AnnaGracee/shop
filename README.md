@@ -1,6 +1,6 @@
 # shop
 <table border="0">
-   <caption>Timeline prac z milestones i przydział zadań poszczególnym członkom zespołu. </caption>
+<caption><h1>Timeline prac z milestones i przydział zadań poszczególnym członkom zespołu.</h1> </caption>
    <tr>
     <th>Zadanie</th>
     <th>Termin</th>
