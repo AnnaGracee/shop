@@ -18,6 +18,6 @@
    <tr><td>Eksport-import bazy danych za pomocą phpmyadmin.</td><td>15.12.2016</td><td></td></tr>
    <tr><td>Sekcją "zamówienie".</td><td>05.01.2017</td><td></td></tr>
    <tr><td>Panel administratora</td><td>12.01.2017</td><td></td></tr>
-   <tr><td>Realizacja  ładowania zdjęć na serwer</td><td>19.01.2016</td><td></td></tr>
+   <tr><td>Realizacja  ładowania zdjęć na serwer</td><td>19.01.2017</td><td></td></tr>
    <tr><td>Końcowe przygotowania</td><td>26.01.2017</td><td></td></tr>
   </table>
