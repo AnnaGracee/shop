@@ -6,8 +6,8 @@
     <th>Termin</th>
     <th>Wykonaca</th>
    </tr>
-   <tr><td>Struktura realizowanego projektu</td><td></td><td></td></tr>
-   <tr><td>Stroną główną serwisu</td><td></td><td></td></tr>
+   <tr><td>Struktura realizowanego projektu</td><td>13.10.2016 <br>20.10.2016</td><td></td></tr>
+   <tr><td>Stroną główną serwisu</td><td>20.10.2016</td><td></td></tr>
    <tr><td>Strony katalogu</td><td></td><td></td></tr>
    <tr><td>Kategorii  produktu</td><td></td><td></td></tr>
    <tr><td>Nawigację towarów</td><td></td><td></td></tr>
