@@ -11,11 +11,11 @@
    <tr><td>Strony katalogu</td><td>27.10.2016 <br>03.11.2016</td><td></td></tr>
    <tr><td>Eksport-import bazy danych za pomocą phpmyadmin.</td><td>10.11.2016</td><td></td></tr>
    <tr><td>Mechanizm autoryzacji i edycji danych osobowych</td><td>17.11.2016</td><td></td></tr>
-   <tr><td>Kategorii  produktu</td><td>24.11.2016</td><td></td></tr>
-   <tr><td>Nawigację towarów</td><td>01.12.2016</td><td></td></tr>
-   <tr><td>Rejestracja użytkowników</td><td>08.12.2016</td><td></td></tr>
-   <tr><td>Gabinet użytkownika</td><td>08.12.2016</td><td></td></tr>
-   <tr><td>Lista towarów w koszyku</td><td>15.12.2016</td><td></td></tr>
+   <tr><td>Gabinet użytkownika</td><td>24.11.2016</td><td></td></tr>
+   <tr><td>Kategorii  produktu</td><td>01.12.2016</td><td></td></tr>
+   <tr><td>Nawigację towarów</td><td>08.12.2016</td><td></td></tr>
+   <tr><td>Rejestracja użytkowników</td><td>15.12.2016</td><td></td></tr>
+   <tr><td>Lista towarów w koszyku</td><td>22.12.2016</td><td></td></tr>
    <tr><td>Sekcją "zamówienie".</td><td>05.01.2017</td><td></td></tr>
    <tr><td>Panel administratora</td><td>12.01.2017</td><td></td></tr>
    <tr><td>Realizacja  ładowania zdjęć na serwer</td><td>19.01.2017</td><td></td></tr>
