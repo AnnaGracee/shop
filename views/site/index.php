@@ -2,10 +2,10 @@
 
 <section>
     <div class="container">
-        <? /*       <div class="row">
+        <div class="row">
             <div class="col-sm-3">
                 <div class="left-sidebar">
-                    <h2>Каталог</h2>
+                    <h2>Katalog</h2>
                     <div class="panel-group category-products">
                         <?php foreach ($categories as $categoryItem): ?>
                             <div class="panel panel-default">
@@ -24,7 +24,7 @@
 
             <div class="col-sm-9 padding-right">
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Последние товары</h2>
+                    <h2 class="title text-center">Produkty</h2>
 
                     <?php foreach ($latestProducts as $product): ?>
                         <div class="col-sm-4">
@@ -38,7 +38,6 @@
                                                 <?php echo $product['name']; ?>
                                             </a>
                                         </p>
-                                        <a href="#" class="btn btn-default add-to-cart" data-id="<?php echo $product['id']; ?>"><i class="fa fa-shopping-cart"></i>В корзину</a>
                                     </div>
                                     <?php if ($product['is_new']): ?>
                                         <img src="/template/images/home/new.png" class="new" alt="" />
@@ -51,7 +50,7 @@
 
                 </div><!--features_items-->
 
-                <div class="recommended_items"><!--recommended_items-->
+            <? /*  <div class="recommended_items"><!--recommended_items-->
                     <h2 class="title text-center">Рекомендуемые товары</h2>
                     
                     <div class="cycle-slideshow" 
@@ -93,9 +92,9 @@
                     </a>
 
                 </div>
-            </div><!--/recommended_items-->
+            </div><!--/recommended_items--> */ ?>
 
-        </div> */ ?>
+        </div>
     </div>
 
 </section>
