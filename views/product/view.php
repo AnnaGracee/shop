@@ -38,7 +38,7 @@
                                 <?php endif; ?>
 
                                 <h2><?php echo $product['name']; ?></h2>
-                                <p>Код товара: <?php echo $product['code']; ?></p>
+                                <p>Kod: <?php echo $product['code']; ?></p>
                                 <span>
                                     <span>US $<?php echo $product['price']; ?></span>
                                 </span>
