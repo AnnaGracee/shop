@@ -40,17 +40,17 @@
                                 <h2><?php echo $product['name']; ?></h2>
                                 <p>Kod: <?php echo $product['code']; ?></p>
                                 <span>
-                                    <span>US $<?php echo $product['price']; ?></span>
+                                    <span>Pl <?php echo $product['price']; ?>zl</span>
                                 </span>
-                                <p><b>Наличие:</b> <?php echo Product::getAvailabilityText($product['availability']); ?></p>
-                                <p><b>Производитель:</b> <?php echo $product['brand']; ?></p>
+                                <p><b>Dostępność:</b> <?php echo Product::getAvailabilityText($product['availability']); ?></p>
+                                <p><b>Producent:</b> <?php echo $product['brand']; ?></p>
                             </div><!--/product-information-->
                         </div>
                     </div>
                     <div class="row">                                
                         <div class="col-sm-12">
                             <br/>
-                            <h5>Описание товара</h5>
+                            <h4>Opis sprzedawanego przedmiotu</h4>
                             <?php echo $product['description']; ?>
                         </div>
                     </div>

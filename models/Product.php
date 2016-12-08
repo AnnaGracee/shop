@@ -333,10 +333,10 @@ class Product
     {
         switch ($availability) {
             case '1':
-                return 'В наличии';
+                return 'Produkt dostępny';
                 break;
             case '0':
-                return 'Под заказ';
+                return 'Produkty w dostawie';
                 break;
         }
     }
