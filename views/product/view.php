@@ -40,17 +40,29 @@
                                 <h2><?php echo $product['name']; ?></h2>
                                 <p>Kod: <?php echo $product['code']; ?></p>
                                 <span>
+<<<<<<< OURS
+                                    <span>PL  <?php echo $product['price']; ?> zł</span>
+=======
                                     <span>Pl <?php echo $product['price']; ?>zl</span>
+>>>>>>> THEIRS
                                 </span>
                                 <p><b>Dostępność:</b> <?php echo Product::getAvailabilityText($product['availability']); ?></p>
+<<<<<<< OURS
+                                <p><b>Brand:</b> <?php echo $product['brand']; ?></p>
+=======
                                 <p><b>Producent:</b> <?php echo $product['brand']; ?></p>
+>>>>>>> THEIRS
                             </div><!--/product-information-->
                         </div>
                     </div>
                     <div class="row">                                
                         <div class="col-sm-12">
                             <br/>
+<<<<<<< OURS
+                            <h5>Opis sprzedawanego produktu</h5>
+=======
                             <h4>Opis sprzedawanego przedmiotu</h4>
+>>>>>>> THEIRS
                             <?php echo $product['description']; ?>
                         </div>
                     </div>
