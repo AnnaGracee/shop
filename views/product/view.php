@@ -38,7 +38,7 @@
                                 <?php endif; ?>
 
                                 <h2><?php echo $product['name']; ?></h2>
-                                <p>Kod: <?php echo $product['code']; ?></p>
+                                <p>Kod <?php echo $product['code']; ?></p>
                                 <span>
                                     <span>PL  <?php echo $product['price']; ?> zł</span>
                                 </span>
