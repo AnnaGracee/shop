@@ -9,8 +9,6 @@
 
                 <br/>
 
-                               
-                
                 <p>Dzień dobry.
                 <p>Nasz sklep rozpoczął swoją działalność w 2016 roku i mamy nadzieję,
                    zyska wielkie uznanie wśród konsumentów.
