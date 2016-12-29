@@ -38,14 +38,13 @@
                                 <?php endif; ?>
 
                                 <h2><?php echo $product['name']; ?></h2>
-                                <p>Kod <?php echo $product['code']; ?></p>
+                                <p>Kod: <?php echo $product['code']; ?></p>
                                 <span>
                                     <span>PL  <?php echo $product['price']; ?> zł</span>
                                 </span>
                                 <p><b>Dostępność:</b> <?php echo Product::getAvailabilityText($product['availability']); ?></p>
                                 <p><b>Brand:</b> <?php echo $product['brand']; ?></p>
-                                <p><b>Producent:</b> <?php echo $product['brand']; ?></p>
-
+                                
                             </div><!--/product-information-->
                         </div>
                     </div>
