@@ -5,7 +5,7 @@
         <div class="row">
 
             <div class="col-lg-6">
-                <h4>O nas</h4>
+                <h5>O nas</h5>
 
                 <br/>
 
